@@ -1,0 +1,10 @@
+--- DEFINE THE OPTIMIZATION PROBLEM ---
+Problem: A company produces two products, A and B, to maximize profit.
+Product A: continuous quantity, profit of $20 per unit.
+Product B: integer quantity, profit of $30 per unit.
+
+Constraints:
+- Resource 1 (Labor): 2 hours per unit of A, 4 hours per unit of B. Total available: 100 hours.
+- Resource 2 (Material): 5 pounds per unit of A, 3 pounds per unit of B. Total available: 120 pounds.
+
+How much should product A and product B produced
